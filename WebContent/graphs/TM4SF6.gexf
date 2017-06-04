@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.1draft" version="1.2" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+<meta lastmodifieddate="2011-09-05">
+<creator>Gephi 0.8</creator>
+<description></description>
+</meta><graph defaultedgetype="directed" timeformat="double" mode="dynamic">
+<attributes class="node" mode="static">
+<attribute id="modularity_class" title="Modularity Class" type="String">
+<default>0</default>
+</attribute>
+</attributes>
+<nodes>
+<node id="ENSG00000000003" label="ENSG00000000003" >
+<attvalues>
+<attvalue for="modularity_class" value="1"></attvalue>
+</attvalues>
+<viz:size value="50"></viz:size>
+<viz:position x="200.44444444444" y="150.14285714286"></viz:position>
+<viz:color r="255" g="82" b="158"></viz:color>
+</node>
+<node id="ENSG00000006210" label="ENSG00000006210" >
+<attvalues>
+<attvalue for="modularity_class" value="0"></attvalue>
+</attvalues>
+<viz:size value="3.0"></viz:size>
+<viz:position x="212.16281880108696" y="-375.6173233951722" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000007062" label="ENSG00000007062" >
+<attvalues>
+<attvalue for="modularity_class" value="1"></attvalue>
+</attvalues>
+<viz:size value="51.0"></viz:size>
+<viz:position x="-507.14786805732" y="-454.63849984097754" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000043514" label="ENSG00000043514" >
+<attvalues>
+<attvalue for="modularity_class" value="1"></attvalue>
+</attvalues>
+<viz:size value="13.0"></viz:size>
+<viz:position x="158.9161650458085" y="-969.121763409648" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000046653" label="ENSG00000046653" >
+<attvalues>
+<attvalue for="modularity_class" value="2"></attvalue>
+</attvalues>
+<viz:size value="0.0"></viz:size>
+<viz:position x="49.392291406983446" y="-347.79566728849494" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000051620" label="ENSG00000051620" >
+<attvalues>
+<attvalue for="modularity_class" value="2"></attvalue>
+</attvalues>
+<viz:size value="18.0"></viz:size>
+<viz:position x="-149.55647239392596" y="-42.00351781818721" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000062038" label="ENSG00000062038" >
+<attvalues>
+<attvalue for="modularity_class" value="3"></attvalue>
+</attvalues>
+<viz:size value="28.0"></viz:size>
+<viz:position x="195.83660642030085" y="-67.32358502724747" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000064999" label="ENSG00000064999" >
+<attvalues>
+<attvalue for="modularity_class" value="3"></attvalue>
+</attvalues>
+<viz:size value="41.0"></viz:size>
+<viz:position x="105.32098771592393" y="-161.12273060647206" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000066651" label="ENSG00000066651" >
+<attvalues>
+<attvalue for="modularity_class" value="4"></attvalue>
+</attvalues>
+<viz:size value="66.0"></viz:size>
+<viz:position x="-561.9732726665752" y="-91.65559688898112" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000071051" label="ENSG00000071051" >
+<attvalues>
+<attvalue for="modularity_class" value="4"></attvalue>
+</attvalues>
+<viz:size value="12.0"></viz:size>
+<viz:position x="502.43931139512733" y="395.88591316257026" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000076043" label="ENSG00000076043" >
+<attvalues>
+<attvalue for="modularity_class" value="5"></attvalue>
+</attvalues>
+<viz:size value="30.0"></viz:size>
+<viz:position x="185.4838049875777" y="-156.55147836077572" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000083857" label="ENSG00000083857" >
+<attvalues>
+<attvalue for="modularity_class" value="5"></attvalue>
+</attvalues>
+<viz:size value="28.0"></viz:size>
+<viz:position x="390.0129746634693" y="-612.0070797670656" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000087916" label="ENSG00000087916" >
+<attvalues>
+<attvalue for="modularity_class" value="6"></attvalue>
+</attvalues>
+<viz:size value="62.0"></viz:size>
+<viz:position x="-9.852996864055203" y="-358.7058644607997" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000090621" label="ENSG00000090621" >
+<attvalues>
+<attvalue for="modularity_class" value="6"></attvalue>
+</attvalues>
+<viz:size value="60.0"></viz:size>
+<viz:position x="-77.40385950038166" y="-575.788949531606" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000092621" label="ENSG00000092621" >
+<attvalues>
+<attvalue for="modularity_class" value="7"></attvalue>
+</attvalues>
+<viz:size value="19.0"></viz:size>
+<viz:position x="285.4744403180787" y="337.15173513050735" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000092758" label="ENSG00000092758" >
+<attvalues>
+<attvalue for="modularity_class" value="7"></attvalue>
+</attvalues>
+<viz:size value="57.0"></viz:size>
+<viz:position x="-121.17246010041795" y="-78.34842859492997" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000094755" label="ENSG00000094755" >
+<attvalues>
+<attvalue for="modularity_class" value="8"></attvalue>
+</attvalues>
+<viz:size value="2.0"></viz:size>
+<viz:position x="-658.1115215339895" y="-26.32069555926075" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000100170" label="ENSG00000100170" >
+<attvalues>
+<attvalue for="modularity_class" value="8"></attvalue>
+</attvalues>
+<viz:size value="68.0"></viz:size>
+<viz:position x="-217.49693641855933" y="-17.134135756467355" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000104332" label="ENSG00000104332" >
+<attvalues>
+<attvalue for="modularity_class" value="9"></attvalue>
+</attvalues>
+<viz:size value="32.0"></viz:size>
+<viz:position x="-76.52939892568997" y="-248.4841481758142" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000106392" label="ENSG00000106392" >
+<attvalues>
+<attvalue for="modularity_class" value="9"></attvalue>
+</attvalues>
+<viz:size value="46.0"></viz:size>
+<viz:position x="121.32622631261208" y="-394.01283959056747" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000106546" label="ENSG00000106546" >
+<attvalues>
+<attvalue for="modularity_class" value="10"></attvalue>
+</attvalues>
+<viz:size value="54.0"></viz:size>
+<viz:position x="145.7452172995301" y="375.2549215853521" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000107960" label="ENSG00000107960" >
+<attvalues>
+<attvalue for="modularity_class" value="10"></attvalue>
+</attvalues>
+<viz:size value="30.0"></viz:size>
+<viz:position x="-399.50317928366127" y="111.12053365332201" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000110042" label="ENSG00000110042" >
+<attvalues>
+<attvalue for="modularity_class" value="11"></attvalue>
+</attvalues>
+<viz:size value="19.0"></viz:size>
+<viz:position x="-7.856756980890886" y="-169.37405362693733" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000111261" label="ENSG00000111261" >
+<attvalues>
+<attvalue for="modularity_class" value="11"></attvalue>
+</attvalues>
+<viz:size value="10.0"></viz:size>
+<viz:position x="46.17388212455646" y="-607.730129061594" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000111341" label="ENSG00000111341" >
+<attvalues>
+<attvalue for="modularity_class" value="12"></attvalue>
+</attvalues>
+<viz:size value="8.0"></viz:size>
+<viz:position x="640.6760027595303" y="281.87836478179764" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000111716" label="ENSG00000111716" >
+<attvalues>
+<attvalue for="modularity_class" value="12"></attvalue>
+</attvalues>
+<viz:size value="57.0"></viz:size>
+<viz:position x="36.037556523762106" y="-685.4009131032103" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000111728" label="ENSG00000111728" >
+<attvalues>
+<attvalue for="modularity_class" value="13"></attvalue>
+</attvalues>
+<viz:size value="48.0"></viz:size>
+<viz:position x="31.94314078955444" y="536.6412622645025" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+<node id="ENSG00000112406" label="ENSG00000112406" >
+<attvalues>
+<attvalue for="modularity_class" value="13"></attvalue>
+</attvalues>
+<viz:size value="51.0"></viz:size>
+<viz:position x="-70.01088963388824" y="16.74455566276663" ></viz:position>
+<viz:color r="55" g="112" b="158"></viz:color>
+</node>
+</nodes>
+<edges>
+<edge id="1" source="ENSG00000000003" target="ENSG00000006210" weight="0.011" >
+<attvalues>
+<attvalue for="weight" value="0.011"></attvalue>
+</attvalues>
+</edge>
+<edge id="2" source="ENSG00000000003" target="ENSG00000007062" weight="0.012" >
+<attvalues>
+<attvalue for="weight" value="0.012"></attvalue>
+</attvalues>
+</edge>
+<edge id="3" source="ENSG00000000003" target="ENSG00000043514" weight="0.012" >
+<attvalues>
+<attvalue for="weight" value="0.012"></attvalue>
+</attvalues>
+</edge>
+<edge id="4" source="ENSG00000000003" target="ENSG00000046653" weight="0.01" >
+<attvalues>
+<attvalue for="weight" value="0.01"></attvalue>
+</attvalues>
+</edge>
+<edge id="5" source="ENSG00000000003" target="ENSG00000051620" weight="0.018" >
+<attvalues>
+<attvalue for="weight" value="0.018"></attvalue>
+</attvalues>
+</edge>
+<edge id="6" source="ENSG00000000003" target="ENSG00000062038" weight="0.013" >
+<attvalues>
+<attvalue for="weight" value="0.013"></attvalue>
+</attvalues>
+</edge>
+<edge id="7" source="ENSG00000000003" target="ENSG00000064999" weight="0.009" >
+<attvalues>
+<attvalue for="weight" value="0.009"></attvalue>
+</attvalues>
+</edge>
+<edge id="8" source="ENSG00000000003" target="ENSG00000066651" weight="0.0079" >
+<attvalues>
+<attvalue for="weight" value="0.0079"></attvalue>
+</attvalues>
+</edge>
+<edge id="9" source="ENSG00000000003" target="ENSG00000071051" weight="0.0084" >
+<attvalues>
+<attvalue for="weight" value="0.0084"></attvalue>
+</attvalues>
+</edge>
+<edge id="10" source="ENSG00000000003" target="ENSG00000076043" weight="0.012" >
+<attvalues>
+<attvalue for="weight" value="0.012"></attvalue>
+</attvalues>
+</edge>
+<edge id="11" source="ENSG00000000003" target="ENSG00000083857" weight="0.011" >
+<attvalues>
+<attvalue for="weight" value="0.011"></attvalue>
+</attvalues>
+</edge>
+<edge id="12" source="ENSG00000000003" target="ENSG00000087916" weight="0.014" >
+<attvalues>
+<attvalue for="weight" value="0.014"></attvalue>
+</attvalues>
+</edge>
+<edge id="13" source="ENSG00000000003" target="ENSG00000090621" weight="0.016" >
+<attvalues>
+<attvalue for="weight" value="0.016"></attvalue>
+</attvalues>
+</edge>
+<edge id="14" source="ENSG00000000003" target="ENSG00000092621" weight="0.011" >
+<attvalues>
+<attvalue for="weight" value="0.011"></attvalue>
+</attvalues>
+</edge>
+<edge id="15" source="ENSG00000000003" target="ENSG00000092758" weight="0.016" >
+<attvalues>
+<attvalue for="weight" value="0.016"></attvalue>
+</attvalues>
+</edge>
+<edge id="16" source="ENSG00000000003" target="ENSG00000094755" weight="0.0088" >
+<attvalues>
+<attvalue for="weight" value="0.0088"></attvalue>
+</attvalues>
+</edge>
+<edge id="17" source="ENSG00000000003" target="ENSG00000100170" weight="0.015" >
+<attvalues>
+<attvalue for="weight" value="0.015"></attvalue>
+</attvalues>
+</edge>
+<edge id="18" source="ENSG00000000003" target="ENSG00000104332" weight="0.0076" >
+<attvalues>
+<attvalue for="weight" value="0.0076"></attvalue>
+</attvalues>
+</edge>
+<edge id="19" source="ENSG00000000003" target="ENSG00000106392" weight="0.017" >
+<attvalues>
+<attvalue for="weight" value="0.017"></attvalue>
+</attvalues>
+</edge>
+<edge id="20" source="ENSG00000000003" target="ENSG00000106546" weight="0.019" >
+<attvalues>
+<attvalue for="weight" value="0.019"></attvalue>
+</attvalues>
+</edge>
+<edge id="21" source="ENSG00000000003" target="ENSG00000107960" weight="0.018" >
+<attvalues>
+<attvalue for="weight" value="0.018"></attvalue>
+</attvalues>
+</edge>
+<edge id="22" source="ENSG00000000003" target="ENSG00000110042" weight="0.018" >
+<attvalues>
+<attvalue for="weight" value="0.018"></attvalue>
+</attvalues>
+</edge>
+<edge id="23" source="ENSG00000000003" target="ENSG00000111261" weight="0.016" >
+<attvalues>
+<attvalue for="weight" value="0.016"></attvalue>
+</attvalues>
+</edge>
+<edge id="24" source="ENSG00000000003" target="ENSG00000111341" weight="0.022" >
+<attvalues>
+<attvalue for="weight" value="0.022"></attvalue>
+</attvalues>
+</edge>
+<edge id="25" source="ENSG00000000003" target="ENSG00000111716" weight="0.0088" >
+<attvalues>
+<attvalue for="weight" value="0.0088"></attvalue>
+</attvalues>
+</edge>
+<edge id="26" source="ENSG00000000003" target="ENSG00000111728" weight="0.011" >
+<attvalues>
+<attvalue for="weight" value="0.011"></attvalue>
+</attvalues>
+</edge>
+<edge id="27" source="ENSG00000000003" target="ENSG00000112406" weight="0.0079" >
+<attvalues>
+<attvalue for="weight" value="0.0079"></attvalue>
+</attvalues>
+</edge>
+</edges>
+</graph>
+</gexf>

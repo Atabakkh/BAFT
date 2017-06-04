@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="G:/GoogleDrive/PhD/Implementation/java/google-collections-1.0-rc2.jar"/>
+	<classpathentry kind="lib" path="G:/GoogleDrive/PhD/Implementation/java/wstx-1.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/GoogleDrive/PhD/Implementation/java/xmlunit-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/GoogleDrive/PhD/Implementation/java/junit-4.1.jar"/>
+	<classpathentry kind="lib" path="G:/GoogleDrive/PhD/Implementation/java/catalina.jar"/>
+	<classpathentry kind="lib" path="G:/GoogleDrive/PhD/Implementation/java/jstl-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="G:/GoogleDrive/PhD/Implementation/java/javax.servlet-3.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

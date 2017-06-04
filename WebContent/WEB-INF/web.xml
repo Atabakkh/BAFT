@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee   http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  	<display-name>Archetype Created Web Application</display-name>
+	<servlet>
+		<servlet-name>upload-file</servlet-name>
+		<servlet-class>ir.ata.baft.FileUpload</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>upload-gene-file</servlet-name>
+		<servlet-class>ir.ata.baft.GeneExpressionFileUpload</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>search</servlet-name>
+		<servlet-class>ir.ata.baft.Search</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>optimizedsearch</servlet-name>
+		<servlet-class>ir.ata.baft.OptimizedSearch</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>DNAStrand</servlet-name>
+		<servlet-class>ir.ata.baft.DisplayDNAStrand</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>AlignmentResult</servlet-name>
+		<servlet-class>ir.ata.baft.Alignment</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>ResponseServlet</servlet-name>
+		<servlet-class>ir.ata.baft.Alignment</servlet-class>
+	</servlet>
+	<servlet>
+	   <servlet-name>Analyze</servlet-name>
+	   <servlet-class>ir.ata.baft.Analyze</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>GGA</servlet-name>
+		<servlet-class>ir.ata.baft.GGA</servlet-class>
+	</servlet>
+	
+	
+	
+	<servlet-mapping>
+		<servlet-name>upload-file</servlet-name>
+		<url-pattern>/upload-file</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>upload-gene-file</servlet-name>
+		<url-pattern>/upload-gene-file</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>search</servlet-name>
+		<url-pattern>/search</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>optimizedsearch</servlet-name>
+		<url-pattern>/optimizedsearch</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>DNAStrand</servlet-name>
+		<url-pattern>/DNAStrand</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>AlignmentResult</servlet-name>
+		<url-pattern>/AlignmentResult</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ResponseServlet</servlet-name>
+		<url-pattern>/servlet/ResponseServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+	   <servlet-name>Analyze</servlet-name>
+	   <url-pattern>/displayChart</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+	   <servlet-name>GGA</servlet-name>
+	   <url-pattern>/GGA</url-pattern>
+	</servlet-mapping>
+	
+	
+	<welcome-file-list>
+		<welcome-file>Home.jsp</welcome-file>
+	</welcome-file-list>
+
+</web-app>
